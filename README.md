@@ -2,7 +2,9 @@
 
 **Servd** is a smart, AI-powered recipe platform that helps you cook better meals using ingredients you already have. Snap a photo of your fridge, and our AI chef will suggest personalized recipes — reducing food waste and saving you money.
 
-> *"Snap a photo of your fridge. We'll tell you what to cook."*
+<img width="1592" height="787" alt="image" src="https://github.com/user-attachments/assets/67ee3be5-64f2-4b7e-8ed5-ac7240817ef7" />
+<img width="1592" height="787" alt="image" src="https://github.com/user-attachments/assets/67ee3be5-64f2-4b7e-8ed5-ac7240817ef7" />
+
 
 ---
 
